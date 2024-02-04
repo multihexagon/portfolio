@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/tech.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,27 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "IdioMaster",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "An interactive tool that allows players to learn foreign languages with a bit of healthy competition.",
+    url: "https://github.com/multihexagon/IdioMaster/tree/main",
   },
   {
     title: "Web Development for Beginners",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Speaker and mentor for the Medellín University 'Web Development for Beginners' research group.",
+    url: "https://ingenierias.udemedellin.edu.co/ingenieria-de-sistemas/#gsc.tab=0t",
   },
   {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    title: "Carreer Essentials in Generative AI",
+    description: "By Microsoft and LinkedIn",
+    url: "https://www.linkedin.com/learning/certificates/aab7c8cf8f8dd647b2b6255e77f85af974dbec276f1c092f1562bc4ec8c7d2bd",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Microsoft Learn Student Ambassador",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Serve my community as a Microsft Learn Student Ambassador by sharing kwnoledge, tools and experiences through the use and implementation of AI driven solutions with Microsoft tools.",
+    url: "https://mvp.microsoft.com/en-US/studentambassadors/profile/b634b2c0-9f7b-4053-9ae2-ce5a4f2b6c03",
   },
 ];
 
