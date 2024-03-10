@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "JuanPablo Aguirre",
-  title: "AI Engineer",
+  title: "Software Engineer",
   email: "juanpabloaguirreosorio@gmail.com",
   gitHub: "multihexagon",
   instagram: "juanpabloaguirreo",
